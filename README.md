@@ -1,39 +1,33 @@
 # Hi 👋 I'm Payal Dhokane
 
-🎯 Data Science | Python| Machine Learning |Artificial Intelligence
+🎯 Aspiring Data Scientist | AI | ML | Python
+
+🔭 I’m currently looking forward to contributing to real-world projects  
+💼 Experience: AI/ML Intern at GNCIPL (3 months)  
+👯 I’m open to collaborate 
+
+📫 How to reach me: [payaldhokane282@gmail.com](mailto:payaldhokane282@gmail.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/payaldhokane](https://www.linkedin.com/in/payaldhokane)
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Languages and Tools
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Machine Learning
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-2E9FFF?style=for-the-badge&logo=catboost&logoColor=white)
-![Regression](https://img.shields.io/badge/Regression-0F52BA?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) 
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge) 
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white) 
+![CatBoost](https://img.shields.io/badge/CatBoost-2E9FFF?style=for-the-badge&logo=catboost&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) 
 ![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Payal-Dhokane&show_icons=true&theme=radical)](https://github.com/Payal-Dhokane)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Payal-Dhokane&layout=compact&theme=radical)](https://github.com/Payal-Dhokane)
 
 ---
 
@@ -43,15 +37,10 @@
 
 ---
 
-## 📫 Connect With Me
+I’m excited to contribute to real-world projects! 🚀  
+Feel free to explore my projects, or collaborate.  
+Happy Coding! 😄
 
-- 📧 Email: [payaldhokane282@gmail.com](mailto:payaldhokane282@gmail.com)  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/payaldhokane](https://www.linkedin.com/in/payaldhokane)
-
----
-
-## 🔖 Interests
-Data Science | Artificial Intelligence | Machine Learning | Python
 
 
 
