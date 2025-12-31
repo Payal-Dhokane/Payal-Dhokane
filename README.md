@@ -37,8 +37,8 @@
 
 ---
 
-I’m excited to contribute to real-world projects! 🚀  
-Feel free to explore my projects, or collaborate.  
+🎯 Excited to contribute to real-world projects! 🚀  
+  
 Happy Coding! 
 
 
