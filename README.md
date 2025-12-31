@@ -2,7 +2,7 @@
 
 🎯 Aspiring Data Scientist | AI | ML | Python
 
-🔭 I’m currently looking forward to contributing to real-world projects  
+🔭 I’m currently looking forward to contributing in real-world projects  
 💼 Experience: AI/ML Intern at GNCIPL (3 months)  
 
 
@@ -37,7 +37,7 @@
 
 ---
 
-🎯 Excited to contribute to real-world projects! 🚀  
+🎯 Excited to contribute in real-world projects! 🚀  
   
 Happy Coding! 
 
