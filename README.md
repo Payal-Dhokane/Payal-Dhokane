@@ -4,7 +4,7 @@
 
 🔭 I’m currently looking forward to contributing to real-world projects  
 💼 Experience: AI/ML Intern at GNCIPL (3 months)  
-👯 I’m open to collaborate 
+
 
 📫 How to reach me: [payaldhokane282@gmail.com](mailto:payaldhokane282@gmail.com)  
 🔗 LinkedIn: [https://www.linkedin.com/in/payaldhokane](https://www.linkedin.com/in/payaldhokane)
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧠 Kaggle
+##  🔗 Kaggle
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/payaldhokane)
 
@@ -39,7 +39,7 @@
 
 I’m excited to contribute to real-world projects! 🚀  
 Feel free to explore my projects, or collaborate.  
-Happy Coding! 😄
+Happy Coding! 
 
 
 
