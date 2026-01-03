@@ -19,8 +19,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/payaldhokane)
 
 ---
-
-🎯 Excited to contribute in real-world projects! 🚀  
   
 Happy Coding! 
 
